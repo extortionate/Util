@@ -19,7 +19,7 @@
 + Converting .dat files into viewable images was done by using hxd to find out what the image type & offset they used then displaying it on the picture box
 
 🐛 Known Bugs 🐛
-< HEN
-< Will get error messages in every tab that uses FTP
-< Every 30 seconds you would timeout using FTP (infinite time limit was set. Fuck HEN)
-< So bad to work with no errors with cfw connection HEN had to be taken out
++ HEN
++ Will get error messages in every tab that uses FTP
++ Every 30 seconds you would timeout using FTP (infinite time limit was set. Fuck HEN)
++ So bad to work with no errors with cfw connection HEN had to be taken out
