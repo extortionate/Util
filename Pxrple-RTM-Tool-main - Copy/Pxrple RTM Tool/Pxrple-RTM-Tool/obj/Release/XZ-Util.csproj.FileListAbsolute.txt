@@ -1,0 +1,31 @@
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Release\XZ Util.exe.config
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Release\XZ Util.exe
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Release\XZ Util.pdb
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Release\OpenHardwareMonitorLib.dll
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Release\OpenHardwareMonitorLib.pdb
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\Tool_Base.MainForm.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\Pxrple_RTM_Tool.Properties.Resources.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\Pxrple_RTM_Tool.PS3Manager.AttachDialog.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\Pxrple_RTM_Tool.PS3Manager.ConnectDialog.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\Pxrple_RTM_Tool.PS3Manager.LogDialog.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\XZ-Util.csproj.GenerateResource.cache
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\XZ-Util.csproj.CoreCompileInputs.cache
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\XZ-Util.csproj.CopyComplete
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\XZ Util.exe
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\XZ Util.pdb
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Release\XZ Util.exe.config
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Release\XZ Util.exe
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Release\XZ Util.pdb
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Release\OpenHardwareMonitorLib.dll
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Release\OpenHardwareMonitorLib.pdb
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\XZ-Util.csproj.AssemblyReference.cache
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\Tool_Base.MainForm.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\Pxrple_RTM_Tool.Properties.Resources.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\Pxrple_RTM_Tool.PS3Manager.AttachDialog.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\Pxrple_RTM_Tool.PS3Manager.ConnectDialog.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\Pxrple_RTM_Tool.PS3Manager.LogDialog.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\XZ-Util.csproj.GenerateResource.cache
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\XZ-Util.csproj.CoreCompileInputs.cache
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\XZ-Util.csproj.CopyComplete
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\XZ Util.exe
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Release\XZ Util.pdb

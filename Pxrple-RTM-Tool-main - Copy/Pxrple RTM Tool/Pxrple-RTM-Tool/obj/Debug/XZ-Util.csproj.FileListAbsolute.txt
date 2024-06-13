@@ -1,0 +1,16 @@
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Debug\XZ Util.exe.config
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Debug\XZ Util.exe
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Debug\XZ Util.pdb
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\bin\Debug\OpenHardwareMonitorLib.pdb
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Debug\XZ-Util.csproj.AssemblyReference.cache
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Debug\Tool_Base.MainForm.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Debug\Pxrple_RTM_Tool.Properties.Resources.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Debug\Pxrple_RTM_Tool.PS3Manager.AttachDialog.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Debug\Pxrple_RTM_Tool.PS3Manager.ConnectDialog.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Debug\Pxrple_RTM_Tool.PS3Manager.LogDialog.resources
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Debug\XZ-Util.csproj.GenerateResource.cache
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Debug\XZ-Util.csproj.CoreCompileInputs.cache
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Debug\XZ-Util.csproj.CopyComplete
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Debug\XZ Util.exe
+C:\Users\44736\Desktop\Pxrple-RTM-Tool-main - Copy\Pxrple RTM Tool\Pxrple-RTM-Tool\obj\Debug\XZ Util.pdb
